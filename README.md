@@ -65,14 +65,17 @@ El backend construye un contexto (MCP) enriquecido: problema + código + transcr
 
 Se invoca a Gemini con este contexto multimodal, pidiéndole que evalúe la claridad del razonamiento y formule preguntas de seguimiento.
 
-FLUJO DEL SISTEMA (DIAGRAMA DE ACTIVIDAD)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="6374" height="8405" alt="MCP_6" src="https://github.com/user-attachments/assets/6c870e87-b5cd-4d5e-90d2-bf905a89d45d" />
-
-
+Feedback:
 
 Al concluir, una llamada final a Gemini revisa el contexto completo de la sesión.
 
 La IA genera un informe final consolidado (puntos fuertes y áreas de mejora).
 
 Este informe se almacena en MongoDB y se presenta al usuario.
+
+FLUJO DEL SISTEMA (DIAGRAMA DE ACTIVIDAD)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="4185" height="5162" alt="MCP_6" src="https://github.com/user-attachments/assets/88977688-3c2b-4f14-9eb3-f910ca6921d8" />
+
+
+
