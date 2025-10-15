@@ -76,6 +76,10 @@ Este informe se almacena en MongoDB y se presenta al usuario.
 FLUJO DEL SISTEMA (DIAGRAMA DE ACTIVIDAD)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="4185" height="5162" alt="MCP_6" src="https://github.com/user-attachments/assets/88977688-3c2b-4f14-9eb3-f910ca6921d8" />
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+MÁS INFORMACIÓN:
+
+https://docs.google.com/document/d/1nyIVEeCo2HoJd9jIZh6vyXJzRObPbMsqKJFZZqEYH1U/edit?usp=sharing
 
 
